@@ -1,8 +1,11 @@
 CO1
-Repository Link: PASTE_CO1_LINK_HERE
+Repository Link: https://github.com/Vignesh-dot807/DSA01-1921260251-Assignment1
+
 CO2
-Repository Link: PASTE_CO2_LINK_HERE
+Repository Link: https://github.com/Vignesh-dot807/DSA-0103-1921260251-Assignment-2
+
 CO3
-Repository Link: PASTE_CO3_LINK_HERE
+Repository Link: https://github.com/Vignesh-dot807/DSA01-1921260251-Assignment3
+
 CO4
-Repository Link: PASTE_CO4_LINK_HERE
+Repository Link: https://github.com/Vignesh-dot807/DSA01-1921260251-Assignment4
